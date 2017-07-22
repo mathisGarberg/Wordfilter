@@ -1,1 +1,1 @@
-# Wordfilter
+# Bannefilter
